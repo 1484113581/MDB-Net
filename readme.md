@@ -17,6 +17,7 @@
 - `datasetSample_final`
 	- 存放着数据集，包括训练集(train)、测试集(test)、验证集(val)
 	- 其中`train_augmentation`中存放着增广后的训练集，直接使用该文件夹中样本训练
+        - 请联系 1484113581@qq.com 获取数据
 
 ### 训练说明
 - 运行`NN/train.py`文件
